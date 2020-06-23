@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://fvntr.com',
   pathPrefix: '/',
   title: 'Felipe Ventura',
   subtitle: 'Building community networks',
   copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
+  googleAnalyticsId: 'UA-165352298-1',
   useKatex: false,
   menu: [
     {
