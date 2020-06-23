@@ -107,17 +107,6 @@
   Link: </component---src-templates-page-template-js-925bd411206d460ecf15.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/contacts/
-  Link: </webpack-runtime-ebde1e0ec2d6da206a70.js>; rel=preload; as=script
-  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </framework-a583828929be2467dd8e.js>; rel=preload; as=script
-  Link: </532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
-  Link: </app-048ca492a19b22eb8e89.js>; rel=preload; as=script
-  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </53c835b19c59e07658292ee48bd19cd96802d364-fe018f46fbd47d6c016a.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-925bd411206d460ecf15.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/perfecting-the-art-of-perfection
   Link: </webpack-runtime-ebde1e0ec2d6da206a70.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -130,6 +119,17 @@
   Link: </component---src-templates-post-template-js-baf56088d0433e2e1356.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/contacts/
+  Link: </webpack-runtime-ebde1e0ec2d6da206a70.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-a583828929be2467dd8e.js>; rel=preload; as=script
+  Link: </532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </app-048ca492a19b22eb8e89.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </53c835b19c59e07658292ee48bd19cd96802d364-fe018f46fbd47d6c016a.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-925bd411206d460ecf15.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /
   Link: </webpack-runtime-ebde1e0ec2d6da206a70.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
