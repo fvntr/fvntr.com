@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://fvntr.com',
+  url: 'https://fvntr.github.io/fvntr.com',
   pathPrefix: '/',
   title: 'Felipe Ventura',
   subtitle: 'Building community networks',
