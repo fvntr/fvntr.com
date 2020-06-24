@@ -6,6 +6,8 @@ socialImage: "/media/me-2.jpg"
 ## Articles
 [Reinventing tech's pipeline: Inside the effort to boost black and Latinx talent](https://www.protocol.com/colorstack-stanford-coronavirus-tech-diversity), *Protocol*, June 2020
 
+[Diversifying the Tech Workforce](https://www.yesmagazine.org/issue/coronavirus-community-power/2020/05/09/technology-diversity/), *YES! magazine, May 2020
+
 [Techqueria: Building a community for Latinos in tech industry](http://eltecolote.org/content/en/features/techqueria-building-a-community-for-latinos-in-tech-industry/), *El Tecolote*, Jul. 2019
 
 [Bay Area tech workers defy political categories](https://www.sfchronicle.com/bayarea/article/Bay-Area-tech-workers-defy-political-categories-7388933.php), *SF Chronicle*, May 2016
