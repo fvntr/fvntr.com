@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/me-2.jpg"
 ---
 ## Articles
-[Reinventing tech's pipeline: Inside the effort to boost black and Latinx talent](https://www.protocol.com/colorstack-stanford-coronavirus-tech-diversity), *Protocol*, June 2020
+[Reinventing tech's pipeline](https://www.protocol.com/colorstack-stanford-coronavirus-tech-diversity), *Protocol*, June 2020
 
 [Diversifying the Tech Workforce](https://www.yesmagazine.org/issue/coronavirus-community-power/2020/05/09/technology-diversity/), *YES! magazine*, May 2020
 
