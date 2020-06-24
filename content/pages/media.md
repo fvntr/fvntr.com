@@ -22,4 +22,4 @@ socialImage: "/media/me-2.jpg"
 
 [Latino Founder Hour](https://soundcloud.com/latinofounderhour/111-andrea-flores-felipe-ventura-with-techqueria?utm_content=buffer2cd9b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), *Startup Radio Network* May 2020 
 
-[Immigration Edition.](http://radiobilingue.org/en/noticias/inmigracion/edicion-de-inmigracion-143/), *Radio Bilingue*, July 2019
+[Immigration Edition](http://radiobilingue.org/en/noticias/inmigracion/edicion-de-inmigracion-143/), *Radio Bilingue*, July 2019
