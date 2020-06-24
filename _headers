@@ -100,7 +100,7 @@
   Link: </component---src-templates-not-found-template-js-53fa1056e3c1d193fd53.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/about/
+/pages/contacts/
   Link: </webpack-runtime-1f04d8e998f3d5d4015c.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
   Link: </framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
@@ -110,7 +110,7 @@
   Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-6917ca7d72d1161b0778.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-c74a0e341a7a6c5575b7.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/property-rights-vs-human-rights
   Link: </webpack-runtime-1f04d8e998f3d5d4015c.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -123,7 +123,7 @@
   Link: </component---src-templates-post-template-js-909ef3c8d499e96eaaa6.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/property-rights-vs-human-rights/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/contacts/
+/pages/about/
   Link: </webpack-runtime-1f04d8e998f3d5d4015c.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
   Link: </framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
@@ -133,7 +133,7 @@
   Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-6917ca7d72d1161b0778.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-c74a0e341a7a6c5575b7.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/media/
   Link: </webpack-runtime-1f04d8e998f3d5d4015c.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
