@@ -11,6 +11,6 @@ Hi! I'm Felipe Ventura. I am currently an Executive Director at [Techqueria](htt
 	<figcaption>Speaking at LTX Fest</figcaption>
 </figure>
 
-Recently, my focus has been on the infostructure of community networks and how its members learn to share their visions of what’s possible, how they become agents of change, and how they make meaningful commitments to work with others. This space is an ongoing exploration of this labor on a number of fronts. 
+Recently, I think a lot about the infostructure of community networks and how its members learn to share their visions of what’s possible, how they become agents of change, and how they make meaningful commitments to work with others. This space is an ongoing exploration of this labor on a number of fronts. 
 
 Reach out to [fvntra@gmail.com](mailto:fvntra@gmail.com) to connect! You can also find me on Twitter [@fvntr](https://twitter.com/fvntr).
