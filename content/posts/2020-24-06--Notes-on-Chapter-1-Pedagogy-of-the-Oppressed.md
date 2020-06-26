@@ -1,10 +1,10 @@
 ---
 title: "Notes on Pedagogy of the Oppressed - Part 1"
-date: "2020-06-21"
+date: "2020-06-24"
 template: "post"
 draft: false
 slug: "pedagogy-of-the-oppressed-chap-1"
-category: "Liberation"
+category: "Liberatory Pedagogy"
 tags:
   - "Critical Pedagogy"
   - "Liberation Theory" 
@@ -13,12 +13,24 @@ description: "Notes on Chapter 1 of Pedagogy of the Oppressed"
 socialImage:  "/media/pedagogy.png"
 ---
 
-## Notes on Pedagogy of the Oppressed - Part 1
+## [Draft] Notes on Pedagogy of the Oppressed -  1 of 4 
+
 
 **The justification for a pedagogy of the oppressed**
 
-**the contradiction between the oppressors and the oppressed, and how it is overcome**
+Freire frames oppression as a limiting situation that only the oppressed themselves can transform. Dehumanization requires uncompleted beings conscious of their incompleteness. Humanization is the process of overcoming that alienation. A liberatory pedagogy requires oppressed people to recognize the causes of their dehumanization. 
 
-**oppression and the oppressors; oppression and the oppressed**
+It also presents a paradox. Oppressed people exist without the freedom to exist authentically while also inhabiting fear of what freedom entails. This is a space free of the oppressor within. The justification for a pedagogy of the oppressed is to facilitate concrete action against oppression through critical awareness of oppression. It is the means of travelling from oppressed Object to liberated Subject.
 
-**liberation: not a gift, not a self-achievement, but a mutual process**
+There are two stages of the pedagogy of the oppressed. The first is a commitment to transformation from oppressed Object to liberated Subject. The second stage is the ongoing process of social liberation and creations of a society where permanent liberation becomes an activity of all.  Freire liberations defines as a mode of action (*praxis*) and reflection (*theory*) of humans in order to transform social order.
+
+So why do we need a pedagogy of the oppressed? Because everyone deserves not only to be free to exist, they deserve to be more fully human.  
+
+
+**The contradiction between the oppressors and the oppressed, and how it is overcome**
+
+**Oppression and the oppressors** 
+
+**Oppression and the oppressed**
+
+**Liberation: not a gift, not a self-achievement, but a mutual process**
