@@ -29,6 +29,8 @@ So why do we need a pedagogy of the oppressed? Because everyone deserves not onl
 
 **The contradiction between the oppressors and the oppressed, and how it is overcome**
 
+The duality of the oppressed is one shaped by and existing in oppression and violence.
+
 **Oppression and the oppressors** 
 
 **Oppression and the oppressed**
