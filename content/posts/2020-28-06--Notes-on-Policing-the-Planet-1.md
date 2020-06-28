@@ -9,7 +9,7 @@ tags:
   - "Prison Abolition"
   - "State Violence" 
   - "Neoliberalism"
-description: "an abolitionist society is one rooted in providing for and supporting the self-determination of communities instead of capital"
+description: "An abolitionist society is one rooted in providing for and supporting the self-determination of communities instead of capital"
 socialImage:  "/media/pedagogy.png"
 ---
 

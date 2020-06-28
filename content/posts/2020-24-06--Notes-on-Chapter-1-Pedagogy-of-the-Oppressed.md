@@ -9,7 +9,7 @@ tags:
   - "Critical Pedagogy"
   - "Liberation Theory" 
   - "Philosophy of Education"
-description: "So why do we need a pedagogy of the oppressed? Because everyone deserves not only to be free to exist, they deserve to be more fully human"
+description: "So why do we need a pedagogy of the oppressed? Because everyone deserves to be free to exist *and* be more fully human"
 socialImage:  "/media/pedagogy.png"
 ---
 
@@ -24,7 +24,7 @@ It also presents a paradox. Oppressed people exist without the freedom to exist 
 
 There are two stages of the pedagogy of the oppressed. The first is a commitment to transformation from oppressed Object to liberated Subject. The second stage is the ongoing process of social liberation and creations of a society where permanent liberation becomes an activity of all.  Freire liberations defines as a mode of action (*praxis*) and reflection (*theory*) of humans in order to transform social order.
 
-So why do we need a pedagogy of the oppressed? Because everyone deserves not only to be free to exist, they deserve to be more fully human.  
+So why do we need a pedagogy of the oppressed? Because everyone deserves to be free to exist *and* be more fully human.  
 
 
 **The contradiction between the oppressors and the oppressed, and how it is overcome**
