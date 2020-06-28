@@ -3,7 +3,7 @@ title: "Notes on Policing the Planet - Why the Policing Crisis Led to Black Live
 date: "2020-06-28"
 template: "post"
 draft: false
-slug: "policing-the-planet-1-&-2"
+slug: "policing-the-planet"
 category: "State Violence"
 tags:
   - "Prison Abolition"
@@ -13,7 +13,7 @@ description: "Notes on Policing the Planet-Why the Policing Crisis Led to Black 
 socialImage:  "/media/pedagogy.png"
 ---
 
-## [Draft] Notes on Policing the Planet - "Thug Nation: On State Violence and Disposability” & "#BlackLivesMatter and Global Visions of Abolition: An Interview with Patrisse Cullors”
+## Notes on Policing the Planet - "Thug Nation: On State Violence and Disposability” & "#BlackLivesMatter and Global Visions of Abolition: An Interview with Patrisse Cullors”
 
 **"Thug Nation: On State Violence and Disposability”**
 
@@ -31,4 +31,4 @@ In this interview Patrisse points out that the majority of proposals presented t
 
 The conversation then turn to the global implications anti-Black racism and the #BlackLivesMatter movement. Toronto's #BlackLivesMatter chapter is provided as an example, specifically the fact that they are aware of the state violence and its victims in the US while the US chapters have little knowledge of the dimension of anti-Black violence outside of the US. In the face of this US-centricity, Patrisse says it is “essential that we center this conversation and also our practice in an international frame.” Our fight is for Black people everywhere. It is also important to build deep bonds with Indigenous people since the Black diaspora, in its displacement, is occupying other people's land. 
 
-The interview ends with a bried defintion of an abolitionist society as one "rooted in providing for and supporting the self-determination of communities” instead of capital. 
+The interview ends with a brief defintion of an abolitionist society as one "rooted in providing for and supporting the self-determination of communities” instead of capital. 
