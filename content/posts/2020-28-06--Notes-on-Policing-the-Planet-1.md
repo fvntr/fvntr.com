@@ -13,9 +13,7 @@ description: "Notes on Policing the Planet-Why the Policing Crisis Led to Black 
 socialImage:  "/media/pedagogy.png"
 ---
 
-## Notes on Policing the Planet - "Thug Nation: On State Violence and Disposability” & "#BlackLivesMatter and Global Visions of Abolition: An Interview with Patrisse Cullors”
-
-**Thug Nation: On State Violence and Disposability**
+## Thug Nation: On State Violence and Disposability**
 
 Professor Kelley begins this essay with the story of Khalief Browder, who was held at Rikers for several years due to his inability to pay for bail after he was accused of stealing the backpack. He laments his suicide shortly after he was released and frames it as the result of the state's treatment of Black and Brown people as disposable specifically as enshrined through the city's 'broken window's policy'. 
 
@@ -25,7 +23,7 @@ Of note is the attention placed to the hardware used by the police in their camp
 
 Kelley focuses now on the linguistic purpose of terms like 'thug' and 'hoodlum' and the not so apparent systems that support crimizalization of the poor. There is the aforementioned purpose of framing public opion by criminalizing and dehumanizing Black people. This 'closes off empathy' for those that may have broken the law in the court of public opinion. The other function is that it masks the violence by the state. If Black people are framed as society's true source of violence,then the daily violence perpetrated by the state and capital remains hidden.  Racial taxes, in the form of summons and warrants, provide the financial support to keep these systems funded. He describes a *racial tax* as "a direct extraction of surplus by the state that produces nothing but discipline and terror and the reproduction of the state—in other words, revenue by *primitive accumulation*.” Primitive accumulation is the process in which the ruling class takes possession of wealth and maintains the poor without land or resources to call their own. They are then stuck at the whims of rent-seeking forces that extract the lab
 
-**#BLACKLIVESMATTER AND GLOBAL VISIONS OF ABOLITION: AN INTERVIEW WITH PATRISSE CULLORS**
+## #BLACKLIVESMATTER AND GLOBAL VISIONS OF ABOLITION: AN INTERVIEW WITH PATRISSE CULLORS**
 
 In this interview Patrisse points out that the majority of proposals presented today in anti-police brutality work actually serves to make the state more present in our lives. The state should not be a part of the process. What do proposals without state intervention look like? Community-centered alternatives to public safety are needed. A larger conversation about why police are needed is also crucial.  An interesting obeservation is examining people's fear about not having police. Patrisses points out that “People say, “What are we going do with criminals?” by which they mean “What are we going to do with Black people?”
 
