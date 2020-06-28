@@ -15,7 +15,7 @@ socialImage:  "/media/pedagogy.png"
 
 ## Notes on Policing the Planet - "Thug Nation: On State Violence and Disposability” & "#BlackLivesMatter and Global Visions of Abolition: An Interview with Patrisse Cullors”
 
-**"Thug Nation: On State Violence and Disposability”**
+**Thug Nation: On State Violence and Disposability**
 
 Professor Kelley begins this essay with the story of Khalief Browder, who was held at Rikers for several years due to his inability to pay for bail after he was accused of stealing the backpack. He laments his suicide shortly after he was released and frames it as the result of the state's treatment of Black and Brown people as disposable specifically as enshrined through the city's 'broken window's policy'. 
 
