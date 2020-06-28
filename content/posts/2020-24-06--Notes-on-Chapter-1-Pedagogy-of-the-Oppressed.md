@@ -29,7 +29,7 @@ So why do we need a pedagogy of the oppressed? Because everyone deserves not onl
 
 **The contradiction between the oppressors and the oppressed, and how it is overcome**
 
-The duality of the oppressed is one shaped by and existing in oppression and violence.
+The duality of the oppressed is one shaped by and existing in oppression and violence. When the oppressed react to the violence and dehumananization imposed by the oppressors, the oppressing class interprets this as violent. As the oppressors dehumanize others and violate their rights, they themselves also become dehumanized. Only the oppressed, through rebellion, can take away the oppressor's ability to dominate and suppress. This is an act of love that culminates in the dissolution of the oppressed/oppressor dynamic and leads to humans in the process of liberation. 
 
 **Oppression and the oppressors** 
 
