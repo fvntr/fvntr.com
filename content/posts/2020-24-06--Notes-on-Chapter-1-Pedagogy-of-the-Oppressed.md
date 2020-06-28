@@ -9,7 +9,7 @@ tags:
   - "Critical Pedagogy"
   - "Liberation Theory" 
   - "Philosophy of Education"
-description: "Notes on Chapter 1 of Pedagogy of the Oppressed"
+description: "So why do we need a pedagogy of the oppressed? Because everyone deserves not only to be free to exist, they deserve to be more fully human"
 socialImage:  "/media/pedagogy.png"
 ---
 

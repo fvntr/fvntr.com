@@ -7,7 +7,7 @@ slug: "property-rights-vs-human-rights"
 category: "Property Rights"
 tags:
   - "Propery Rights"
-description: "I found myself thinking about property rights recently in relation to the ongoing civil unrest..."
+description: "If ‘essential workers’ perform necessary work, what does the rest of the labor force do and what are they called?"
 socialImage:  "/media/lucy.png"
 ---
 
