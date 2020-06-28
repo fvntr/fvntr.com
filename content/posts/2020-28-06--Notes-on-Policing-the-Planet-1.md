@@ -9,7 +9,7 @@ tags:
   - "Prison Abolition"
   - "State Violence" 
   - "Neoliberalism"
-description: "Notes on Policing the Planet"
+description: "Notes on Policing the Planet-Why the Policing Crisis Led to Black Lives Matter"
 socialImage:  "/media/pedagogy.png"
 ---
 
