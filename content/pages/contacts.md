@@ -4,12 +4,17 @@ template: "page"
 socialImage: "/media/me-2.jpg"
 ---
 
-Send me an email at [fvntra@gmail.com](mailto:fvntra@gmail.com). 
-
-Read some more of my thoughts on twitter [@fvntr](https://twitter.com/fvntr) too!
-
-
-<figure style="width: 240px; margin:auto;">
-	<img src="/media/me-2.png" alt="Felipe reading comics">
-	<figcaption>Reading Latino USA: A Cartoon History</figcaption>
-</figure>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
