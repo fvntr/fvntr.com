@@ -7,9 +7,6 @@ socialImage: "/media/me-2.jpg"
 I'm actively looking for opportunities to collaborate! 
 
 Feel free to reach out to me through this form or on Twitter [@fvntr](https://twitter.com/fvntr)
-
-PGP Key: 5197 7D19 4308 0BF5 F189 64BA 54C1 7C9F 0C1B 07B1
-
 <form name="contact" method="POST" data-netlify="true">   
   <input type="hidden" name="form-name" value="contact" />
   <input name="name" type="text" class="feedback-input" placeholder="Name" required />   
@@ -17,6 +14,8 @@ PGP Key: 5197 7D19 4308 0BF5 F189 64BA 54C1 7C9F 0C1B 07B1
   <textarea name="text" class="feedback-input" placeholder="Message" required></textarea>
   <input type="submit" value="Send"/>
 </form>
+
+PGP Key: 5197 7D19 4308 0BF5 F189 64BA 54C1 7C9F 0C1B 07B1
 
 <style>
 
