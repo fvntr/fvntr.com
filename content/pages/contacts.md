@@ -3,31 +3,23 @@ title: "Contact me"
 template: "page"
 socialImage: "/media/me-2.jpg"
 ---
-<!-- <form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact" />
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
 
- -->
+I'm actively looking for opportunities to collaborate! 
+
+Feel free to reach out to me through this form or on Twitter [@fvntr](https://twitter.com/fvntr)
+
 <form name="contact" method="POST" data-netlify="true">   
   <input type="hidden" name="form-name" value="contact" />
-  <input name="name" type="text" class="feedback-input" placeholder="Name" />   
-  <input name="email" type="email" class="feedback-input" placeholder="Email" />
-  <textarea name="text" class="feedback-input" placeholder="Message"></textarea>
+  <input name="name" type="text" class="feedback-input" placeholder="Name" required />   
+  <input name="email" type="email" class="feedback-input" placeholder="Email" required />
+  <textarea name="text" class="feedback-input" placeholder="Message" required></textarea>
   <input type="submit" value="Send"/>
 </form>
 
 <style>
 
 form { 
-  max-width:420px; 
+  max-width:100%%; 
   margin:50px auto; 
 }
 
