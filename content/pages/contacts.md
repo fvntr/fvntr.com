@@ -21,7 +21,7 @@ PGP Key: 5197 7D19 4308 0BF5 F189 64BA 54C1 7C9F 0C1B 07B1
 
 form { 
   max-width:100%%; 
-  margin:50px auto; 
+  margin:30px auto; 
 }
 
 .feedback-input {
