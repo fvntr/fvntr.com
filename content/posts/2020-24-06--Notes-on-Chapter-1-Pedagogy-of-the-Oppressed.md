@@ -28,7 +28,9 @@ So why do we need a pedagogy of the oppressed? So why do we need a pedagogy of t
 **The contradiction between the oppressors and the oppressed, and how it is overcome**
 
 The duality of the oppressed is one shaped by and existing in oppression and violence. When the oppressed person reacts to the violence and dehumananization imposed by their oppressors, the oppressing class interprets this an attack on their person. It dislocates the oppressor from the priveleges afforded by the labor and value extracted from the oppressed class which has otherwise been normalized. Normalizing that reality dehumanizes the oppressor. 
+
 [//]: # "Include more on this last point" 
+
 Only the oppressed can take away the oppressor's ability to dominate and suppress. This is an act that Freire describes as love but I would descibe more as fierce compassion. Its culmination is the dissolution of the oppressed/oppressor dynamic and leads humans to the process of liberation. 
 
 **Oppression and the oppressors** 
