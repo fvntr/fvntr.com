@@ -4,6 +4,9 @@ template: "page"
 socialImage: "/media/me-2.jpg"
 ---
 ## Articles
+
+[Moving Diversity Beyond a Hashtag](https://www.bizjournals.com/sanfrancisco/news/2020/07/03/tech-diversity-efforts-fall-short.html), *SF Business Times*, July 2020
+
 [Reinventing tech's pipeline](https://www.protocol.com/colorstack-stanford-coronavirus-tech-diversity), *Protocol*, June 2020
 
 [Diversifying the Tech Workforce](https://www.yesmagazine.org/issue/coronavirus-community-power/2020/05/09/technology-diversity/), *YES! magazine*, May 2020
