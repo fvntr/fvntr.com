@@ -3,7 +3,7 @@ title: "Notes on Policing the Planet - Part 1"
 date: "2020-06-28"
 template: "post"
 draft: false
-slug: "policing-the-planet"
+slug: "policing-the-planet-1"
 category: "State Violence"
 tags:
   - "Prison Abolition"

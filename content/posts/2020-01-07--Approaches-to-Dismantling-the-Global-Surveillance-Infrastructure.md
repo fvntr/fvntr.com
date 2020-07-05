@@ -4,7 +4,7 @@ date: "2020-07-01"
 template: "post"
 draft: false
 slug: "dismantling-surveillance-infra"
-category: "State Violence"
+category: "Surveillance"
 tags:
   - "Surveillance"
   - "Algorithms"
