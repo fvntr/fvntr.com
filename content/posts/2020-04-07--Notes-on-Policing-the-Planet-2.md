@@ -23,3 +23,9 @@ As perception of white middle-class gay men as tenants began shifting towards th
 
 
 ## ENDING BROKEN WINDOWS POLICING IN NEW YORK CITY: AN INTERVIEW WITH JOO-HYUN KANG
+
+This is an interview with Joo-Hyun Kang, the director of Communities United for Police Reform (CPR), a campaign to end discriminatory policing practices in New York. 
+
+The key point that stood out to me was how community problems need to be taken up by the whole community, particularly the parts of the community that are most impacted by the issues. As policing in urban areas have evolved, they have done increasingly more social work that they are not trained or qualified to do. This explains the disastrous outcomes that we are seeing on a national scale. Kang explains that “it’s not only the police who are engaged in violence prevention. We believe it is more effective to build up community infrastructure to maintain safe communities than it is to rely solely on police.” The conversationg on community infrastructure has traditionally centered on the physical and technical facilities that are in desperate need of repair. When it comes to crime prevention, this community infrastructure needs to also include the systems at a community level that are connected to the lives and livelihood of the the community immediately affected. These systems form the basis and are sustained through alternative models of harm reduction, as in the case of restoratie and ransformative justice. 
+
+When considering contemporary policing models who do they protect? The discrimination and abuse we see playing out reflects the primacy of private property and the people that own it over the rest of the community. To address the systemic nature of this oppression, neighborhoods must respond with a multifaceted approach that reduces the scope of the police state in our spaces and replacing it with models of justice that honor the lived reality of the people on the street.
