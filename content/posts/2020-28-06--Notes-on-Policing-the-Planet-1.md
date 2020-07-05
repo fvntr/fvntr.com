@@ -4,7 +4,7 @@ date: "2020-06-28"
 template: "post"
 draft: false
 slug: "policing-the-planet-1"
-category: "State Violence"
+category: "Abolition"
 tags:
   - "Prison Abolition"
   - "State Violence" 
