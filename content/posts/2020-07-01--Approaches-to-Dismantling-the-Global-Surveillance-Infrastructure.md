@@ -2,7 +2,7 @@
 title: Approaches to Dismantling the Global Surveillance Infrastructure
 date: "2020-07-01"
 template: "post"
-draft: false
+draft: true
 slug: "dismantling-surveillance-infra"
 category: "Surveillance"
 tags:
