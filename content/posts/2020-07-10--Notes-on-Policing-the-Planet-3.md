@@ -4,9 +4,9 @@ date: "2020-07-10"
 template: "post"
 draft: false
 slug: "policing-the-planet-3"
-category: ""
+category: "State Violence"
 tags:
-  - ""
+  - "Islamophobia"
 description: ""
 socialImage:  "/media/pedagogy.png"
 ---
