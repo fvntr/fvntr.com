@@ -13,11 +13,11 @@ description: "So why do we need a pedagogy of the oppressed? Because everyone de
 socialImage:  "/media/pedagogy.png"
 ---
 
-## [Draft] Notes on Pedagogy of the Oppressed -  1 of 4 
+## Notes on Pedagogy of the Oppressed -  1 of 4 
 
 **The justification for a pedagogy of the oppressed**
 
-Freire frames oppression as a limiting situation that only the oppressed themselves can transform. Dehumanization requires uncompleted beings conscious of their incompleteness. Humanization is the process of overcoming that alienation. A liberatory pedagogy requires oppressed people to recognize the causes of their dehumanization. 
+Freire frames oppression as a limiting situation that only the oppressed themselves can transform. Dehumanization requires uncompleted beings conscious of their incompleteness. Humanization is the process of overcoming that alienation. A libertory pedagogy requires oppressed people to recognize the causes of their dehumanization. 
 
 It also presents a paradox. Oppressed people exist without the freedom to exist authentically while also inhabiting fear of what freedom entails. This is a space free of the oppressor within. The justification for a pedagogy of the oppressed is to facilitate concrete action against oppression through critical awareness of oppression. Critical awareness here is the knowledge and understanding of social structutes and the dynamics between them and individuals. It leads the individual from oppressed Object to liberated Subject.
 
