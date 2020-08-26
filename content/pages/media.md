@@ -7,7 +7,6 @@ socialImage: "/media/me-2.jpg"
 
 [Una organización que ayuda a los latinos en área Tech](https://eltiempolatino.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), El Tiempo Latino Washington DC Metro Area's Newspaper in Spanish, August 2020
 
-
 [Una organización que ayuda a los latinos en área Tech](https://elplaneta.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), El Planeta Boston's Daily Newspaper, August 2020
 
 [Moving Diversity Beyond a Hashtag](https://www.bizjournals.com/sanfrancisco/news/2020/07/03/tech-diversity-efforts-fall-short.html), *SF Business Times*, July 2020
@@ -17,6 +16,8 @@ socialImage: "/media/me-2.jpg"
 [Diversifying the Tech Workforce](https://www.yesmagazine.org/issue/coronavirus-community-power/2020/05/09/technology-diversity/), *YES! magazine*, May 2020
 
 [Techqueria: Building a community for Latinos in tech industry](http://eltecolote.org/content/en/features/techqueria-building-a-community-for-latinos-in-tech-industry/), *El Tecolote*, July 2019
+
+[Construyendo una comunidad latina en la industria de la tecnología](http://eltecolote.org/content/es/especiales/techqueria-construye-una-comunidad-latina-en-la-industria-de-la-tecnologia/), *El Tecolote*, July 2019
 
 [Bay Area tech workers defy political categories](https://www.sfchronicle.com/bayarea/article/Bay-Area-tech-workers-defy-political-categories-7388933.php), *SF Chronicle*, May 2016
 
