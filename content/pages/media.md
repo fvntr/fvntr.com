@@ -5,9 +5,9 @@ socialImage: "/media/me-2.jpg"
 ---
 ## Articles
 
-[Una organización que ayuda a los latinos en área Tech](https://eltiempolatino.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), El Tiempo Latino Washington DC Metro Area's Newspaper in Spanish, August 2020
+[Una organización que ayuda a los latinos en área Tech](https://eltiempolatino.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), *El Tiempo Latino Washington DC Metro Area's Newspaper in Spanish*, August 2020
 
-[Una organización que ayuda a los latinos en área Tech](https://elplaneta.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), El Planeta Boston's Daily Newspaper, August 2020
+[Una organización que ayuda a los latinos en área Tech](https://elplaneta.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), *El Planeta Boston's Daily Newspaper*, August 2020
 
 [Moving Diversity Beyond a Hashtag](https://www.bizjournals.com/sanfrancisco/news/2020/07/03/tech-diversity-efforts-fall-short.html), *SF Business Times*, July 2020
 
