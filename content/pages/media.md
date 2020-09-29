@@ -22,6 +22,11 @@ socialImage: "/media/me-2.jpg"
 [Bay Area tech workers defy political categories](https://www.sfchronicle.com/bayarea/article/Bay-Area-tech-workers-defy-political-categories-7388933.php), *SF Chronicle*, May 2016
 
 ## Panels
+
+[Decolonizing Work](https://techqueria.org/summit/), *Latinx Heritage Summit*, Oct. 2020 
+
+[Mobilizing our community network to aid undocumented workers](https://octogatosconf.com/#schedule), *Octogatos Conf*, Sept. 2020
+
 [The Power of Community](https://ltxfest.com/wp-content/uploads/2019/10/LTX-Fest-Agenda-Day-4.pdf), *LTX Fest*, Oct. 2019
 
 [Towards an Organized Tech Sector](https://summit.g0v.tw/2018/agenda/recLLsXbJtwdxLeTc/towards-an-organized-tech-sector), *g0v Summit*, Oct. 2018 
