@@ -4,7 +4,6 @@ template: "page"
 socialImage: "/media/me-2.jpg"
 ---
 ## Articles
-
 [Una organización que ayuda a los latinos en área Tech](https://eltiempolatino.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), *El Tiempo Latino Washington DC Metro Area's Newspaper in Spanish*, August 2020
 
 [Una organización que ayuda a los latinos en área Tech](https://elplaneta.com/news/2020/aug/25/techqueria-una-organizacion-que-ayuda-los-latinos-/), *El Planeta Boston's Daily Newspaper*, August 2020
@@ -22,6 +21,7 @@ socialImage: "/media/me-2.jpg"
 [Bay Area tech workers defy political categories](https://www.sfchronicle.com/bayarea/article/Bay-Area-tech-workers-defy-political-categories-7388933.php), *SF Chronicle*, May 2016
 
 ## Panels
+[How Tech Workers Are Fighting For Change](https://www.airmeet.com/e/ac079000-38cd-11eb-8845-f142b35e6071), *Center for Humane Technology*, Dec. 2020
 
 [Decolonizing Work](https://techqueria.org/summit/), *Latinx Heritage Summit*, Oct. 2020 
 
