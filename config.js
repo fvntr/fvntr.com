@@ -33,7 +33,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Building community networks',
     contacts: {
-      email: 'fvntra@gmail.com',
+      email: 'fvntr@protonmail.com',
       twitter: 'fvntr',
       github: 'fvntr',
       linkedin: 'fvntr',
