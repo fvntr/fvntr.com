@@ -2,7 +2,7 @@
 title: "Notes on Pedagogy of the Oppressed - Part 1"
 date: "2020-06-24"
 template: "post"
-draft: false
+draft: true
 slug: "pedagogy-of-the-oppressed-1"
 category: "Liberatory Pedagogy"
 tags:

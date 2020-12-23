@@ -2,7 +2,7 @@
 title: "Notes on Policing the Planet - Part 2"
 date: "2020-07-04"
 template: "post"
-draft: false
+draft: true
 slug: "policing-the-planet-2"
 category: "Gentrification"
 tags:

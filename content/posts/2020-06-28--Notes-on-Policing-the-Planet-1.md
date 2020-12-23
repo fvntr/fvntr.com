@@ -2,7 +2,7 @@
 title: "Notes on Policing the Planet - Part 1"
 date: "2020-06-28"
 template: "post"
-draft: false
+draft: true
 slug: "policing-the-planet-1"
 category: "Abolition"
 tags:
